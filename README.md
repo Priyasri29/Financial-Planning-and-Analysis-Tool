@@ -27,7 +27,7 @@ Created a web-based financial planning and analysis application using Python tha
 ```bash
 python -m venv venv
 
-**Activate the environment:**
+****Activate the environment:****
 
 venv\Scripts\activate
 
