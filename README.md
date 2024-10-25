@@ -19,17 +19,23 @@ Client: Dual-core processor, 8 GB RAM, 250 GB storage, Windows/macOS/Linux.
 1. Create a Python Virtual Environment (Recommended):
 
 Initialize the environment:
+
 python -m venv venv
 
 Activate the environment:
 
 On Unix or MacOS:
+
 source venv/bin/activate
+
 On Windows:
+
 venv\Scripts\activate
 
 3. Install Required Packages:
+
 Install all dependencies from the requirements.txt file:
+
 pip install -r requirements.txt
 
 4. Run the app.py file from your local host.
