@@ -27,7 +27,7 @@ Created a web-based financial planning and analysis application using Python tha
 ```bash
 python -m venv venv
 
-Activate the environment:
+**Activate the environment:**
 
 On Unix or MacOS:
 
@@ -39,13 +39,13 @@ On Windows:
 bash
 
 venv\Scripts\activate
-2. Install Required Packages:
+**2. Install Required Packages:**
 Install all dependencies from the requirements.txt file:
 
 bash
 
 pip install -r requirements.txt
-3. Run the App:
+**3. Run the App:**
 Execute the app.py file from your local host to launch the application.
 
 
