@@ -24,19 +24,17 @@ Created a web-based financial planning and analysis application using Python tha
 
 **Initialize the environment:**
 
-```bash
-python -m venv venv
+`python -m venv venv`
 
-****Activate the environment:****
+**Activate the environment:**
 
-venv\Scripts\activate
+`venv\Scripts\activate`
 
 **2. Install Required Packages:**
 Install all dependencies from the requirements.txt file:
 
-bash
+`pip install -r requirements.txt`
 
-pip install -r requirements.txt
 **3. Run the App:**
 Execute the app.py file from your local host to launch the application.
 
