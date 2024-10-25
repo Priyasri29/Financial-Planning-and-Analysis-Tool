@@ -29,16 +29,8 @@ python -m venv venv
 
 **Activate the environment:**
 
-On Unix or MacOS:
-
-bash
-
-source venv/bin/activate
-On Windows:
-
-bash
-
 venv\Scripts\activate
+
 **2. Install Required Packages:**
 Install all dependencies from the requirements.txt file:
 
